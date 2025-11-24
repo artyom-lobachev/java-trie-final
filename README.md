@@ -65,7 +65,7 @@ https://ru.algorithmica.org/cs/string-structures/trie/
 ## Демонстрация функционала
 ### Добавление слова
 
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/8892cec7-f811-457e-a3c4-d390302c287f" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/8892cec7-f811-457e-a3c4-d390302c287f" />
 
 ---
 ### DOT-представление дерева через редактор GraphvizOnline
